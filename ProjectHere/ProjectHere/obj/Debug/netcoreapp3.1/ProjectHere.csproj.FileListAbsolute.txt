@@ -1,0 +1,17 @@
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\bin\Debug\netcoreapp3.1\ProjectHere.exe
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\bin\Debug\netcoreapp3.1\ProjectHere.deps.json
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\bin\Debug\netcoreapp3.1\ProjectHere.runtimeconfig.json
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\bin\Debug\netcoreapp3.1\ProjectHere.runtimeconfig.dev.json
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\bin\Debug\netcoreapp3.1\ProjectHere.dll
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\bin\Debug\netcoreapp3.1\ProjectHere.pdb
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\obj\Debug\netcoreapp3.1\ProjectHere.csproj.AssemblyReference.cache
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\obj\Debug\netcoreapp3.1\ProjectHere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\obj\Debug\netcoreapp3.1\ProjectHere.AssemblyInfoInputs.cache
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\obj\Debug\netcoreapp3.1\ProjectHere.AssemblyInfo.cs
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\obj\Debug\netcoreapp3.1\ProjectHere.csproj.CoreCompileInputs.cache
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\obj\Debug\netcoreapp3.1\ProjectHere.csproj.CopyComplete
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\obj\Debug\netcoreapp3.1\ProjectHere.dll
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\obj\Debug\netcoreapp3.1\ProjectHere.pdb
+C:\Users\BAKU\source\repos\ProjectHere\ProjectHere\obj\Debug\netcoreapp3.1\ProjectHere.genruntimeconfig.cache
