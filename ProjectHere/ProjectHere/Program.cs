@@ -23,6 +23,11 @@ namespace ProjectHere
                Genre = "Action"
 
                };
+            Journal journal1 = new Journal
+            {
+                Company = "City",
+                Name = "Home"
+            };
 
             Product[] products = { book1, book2 };
             Library library = new Library
@@ -31,7 +36,14 @@ namespace ProjectHere
 
             };
             library.GetBooksCount();
-            
+
+            Product[] myProducts =  library.BorJ(false);
+            foreach (var item in myProducts)
+            {
+                Console.WriteLine(item.Name);
+            }
+
+
         }
     }
 }

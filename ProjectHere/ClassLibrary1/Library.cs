@@ -47,29 +47,46 @@ namespace ClassLibrary1
             return count2;
         }
 
-        public void BookorJournal(Product isBook)
+        
+           
+
+        
+        public Product[] BorJ(bool isBook)
         {
+
             Product[] onlybooks = new Product[0];
             Product[] onlyjournals = new Product[0];
-
-            if (isBook is Book)
+            foreach (var item in products)
             {
-                Array.Resize(ref onlybooks, onlybooks.Length + 1);
-                onlybooks[onlybooks.Length - 1] = isBook;
+                if (isBook)
+                {
+                    if (item is Book)
+                    {
+                        Array.Resize(ref onlybooks, onlybooks.Length + 1);
+                        onlybooks[onlybooks.Length - 1] = item;
+                    }
+             
+                }
+                else
+                {
+                    if (item is Journal)
+                    {
+                        Array.Resize(ref onlyjournals, onlyjournals.Length + 1);
+                        onlyjournals[onlyjournals.Length - 1] = item;
+                    }
+                    
+                }
+
             }
-
-            else if (isBook is Journal)
+            if (isBook)
             {
-                Array.Resize(ref onlybooks, onlybooks.Length + 1);
-                onlyjournals[onlyjournals.Length - 1] = isBook;
-
+                return onlybooks;
             }
             else
             {
-                Console.WriteLine("No info found");
+                return onlyjournals;
             }
-
-
+            
         }
     }
 }

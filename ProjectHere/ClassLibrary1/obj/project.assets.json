@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BAKU\\source\\repos\\ProjectHere\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectUniqueName": "C:\\Users\\BAKU\\Desktop\\ProjectHere\\ProjectHere\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1",
-      "projectPath": "C:\\Users\\BAKU\\source\\repos\\ProjectHere\\ClassLibrary1\\ClassLibrary1.csproj",
+      "projectPath": "C:\\Users\\BAKU\\Desktop\\ProjectHere\\ProjectHere\\ClassLibrary1\\ClassLibrary1.csproj",
       "packagesPath": "C:\\Users\\BAKU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BAKU\\source\\repos\\ProjectHere\\ClassLibrary1\\obj\\",
+      "outputPath": "C:\\Users\\BAKU\\Desktop\\ProjectHere\\ProjectHere\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BAKU\\AppData\\Roaming\\NuGet\\NuGet.Config",
